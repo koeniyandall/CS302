@@ -1,3 +1,6 @@
+//Keoni Yandall
+//CS302
+//This checks if the input strings are a palindrome by calculating the amount of odd letter occurances
 // Challenge 03: Palindrome Permutation
 #include <iostream>
 #include <string>
